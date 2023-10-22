@@ -3,11 +3,17 @@ Welcome tomy profile. I am Dawid and I'm taking my first steps as a <b>JavaScrip
 <br>Additionally, I am interested in economics and political philosophy.
 <br>I have already created one, larger, full-fledged application, which is CheckOff.
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=michota&theme=synthwave&hide_border=true)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michota) 
 
 # 💻 Tech Stack:
+
 ## Lanuages (and lanuage extensions, frameworks)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michota&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -41,12 +47,6 @@ Welcome tomy profile. I am Dawid and I'm taking my first steps as a <b>JavaScrip
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=michota&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=michota&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michota&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=michota&icon=0&color=5)](https://visitcount.itsvg.in)
