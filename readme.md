@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hello
-Welcome tomy profile. I am Dawid and I'm taking my first steps as a <b>JavaScript Developer</b>, and I chose <b>React</b> as main framework that I use.
+Welcome to my profile. I am Dawid and I'm taking my first steps as a <b>JavaScript Developer</b>, and I chose <b>React</b> as main framework that I use.
 <br>Additionally, I am interested in economics and political philosophy.
 <br>I have already created one, larger, full-fledged application, which is CheckOff.
 
