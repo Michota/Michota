@@ -1,4 +1,4 @@
-<img width="5760" height="1800" alt="A _ Filmstrip _ EN" src="https://github.com/user-attachments/assets/28076776-e51b-4a6e-9b26-6b39afd8baca" />
+<a href="https://philosopht.com"><img width="5760" height="1800" alt="A _ Filmstrip _ EN" src="https://github.com/user-attachments/assets/28076776-e51b-4a6e-9b26-6b39afd8baca" /><a/>
 
 
 <h1 align="center">Hi, I'm Dawid 👋</h1>
