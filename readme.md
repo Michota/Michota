@@ -67,7 +67,7 @@ If you're a founder with an idea worth validating — or an operator with a proc
 
 <p>
   &nbsp;→&nbsp; <b><a href="https://philosopht.com">philosopht.com</a></b><br>
-  &nbsp;→&nbsp; <a href="mailto:hello@philosopht.com">hello@philosopht.com</a>
+  &nbsp;→&nbsp; <a href="mailto:michota@philosopht.com">michota@philosopht.com</a>
 </p>
 
 <sub>This profile is mostly a doorway to <a href="https://philosopht.com">philosopht</a>. The code lives behind it.</sub>
